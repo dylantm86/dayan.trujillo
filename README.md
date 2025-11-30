@@ -8,7 +8,7 @@ Project One
 https://github.com/dylantm86/HybridCNNTransformModel.git
 
 Project Two
-
+https://github.com/dylantm86/SIntMo.git
 
 Project Three
 
