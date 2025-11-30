@@ -15,4 +15,6 @@ https://github.com/dylantm86/WServiceSaaS.git
 
 
 Connect with me: 
-Link 
+Link www.linkedin.com/in/dayan-trujillo-061004170
+
+
